@@ -18,6 +18,17 @@
     border: none;
     border-radius: 20px;
 }
+.teach-button{
+    width: 250px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+
 .bold h1{
     font-weight: bold;
 }
@@ -49,6 +60,33 @@
     width: 20px;
 }
 #courses{
-    padding-bottom: 30px;
+    padding-bottom: 60px;
     font-weight: bold;
+}
+
+#others{
+    padding-bottom: 60px;
+    font-weight: bold; 
+}
+.last-part img{
+    height: 140px;
+    width: 140px;
+    margin-left: 130px;
+}
+.teacher{
+    margin-left: 115px;
+}
+.done li{
+    list-style: none;
+}
+.finish{
+    font-weight: bold;
+    font-size: 140%;
+}
+.bg-color{
+   background-color: #4d4d4d;
+   color: white;
+   height: 300px;
+   border-radius: 10px;
+   padding-top: 60px;
 }
